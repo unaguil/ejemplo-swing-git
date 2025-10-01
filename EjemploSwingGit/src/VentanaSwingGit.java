@@ -20,7 +20,7 @@ public class VentanaSwingGit extends JFrame {
 		JMenuBar barraMenu = new JMenuBar();
 		setJMenuBar(barraMenu);
 		
-		JMenu menuFichero = new JMenu("Fichero");
+		JMenu menuFichero = new JMenu("File");
 		barraMenu.add(menuFichero);
 		
 		JMenuItem itemMostrar = new JMenuItem("Mostrar");

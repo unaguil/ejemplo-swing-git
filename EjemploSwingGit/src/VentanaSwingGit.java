@@ -27,7 +27,7 @@ public class VentanaSwingGit extends JFrame {
 		menuFichero.add(itemMostrar);
 		JMenuItem itemLimpiar = new JMenuItem("Limpiar");
 		menuFichero.add(itemLimpiar);
-		JMenuItem itemSalir = new JMenuItem("Salir");
+		JMenuItem itemSalir = new JMenuItem("Exit");
 		menuFichero.add(itemSalir);
 		
 		JTabbedPane panelPestanas = new JTabbedPane();
